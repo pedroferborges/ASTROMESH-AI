@@ -1,7 +1,7 @@
 <h1>🪐 AstroMesh AI</h1>
 <p><strong>A Rede Inteligente do Espaço Profundo</strong></p>
 
-<p>Projeto de arquitetura, modelagem de dados e design de solução desenvolvido para o <strong>Global Solution 2026 (FIAP)</strong>. Avaliado com nota <strong>18/20</strong>.</p>
+<p>Projeto de arquitetura, modelagem de dados e design de solução desenvolvido para o <strong>Global Solution 2026 (FIAP)</strong>. 
 
 <hr />
 
