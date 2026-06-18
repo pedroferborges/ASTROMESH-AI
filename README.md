@@ -67,5 +67,5 @@ CREATE TABLE satelites (
 <h2>👥 Integrantes</h2>
 <ul>
   <li><strong>Pedro Henrique Ferreira Borges</strong></li>
-  <li>Evelyn Oliveira Costa</li>
+  <li><strong>Evelyn Oliveira Costa</li>
 </ul>
